@@ -27,3 +27,4 @@ with open("Final.pdf", "wb") as f:
     writer.write(f)
 
 merger.close()
+print("Task Successful!")
